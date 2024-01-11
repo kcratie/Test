@@ -78,7 +78,7 @@ F4 <- function(faasr) {
 
 
 F6 <- function(faasr) {
-# todo
+# this is function 6
 }
 
 
