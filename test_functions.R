@@ -76,15 +76,13 @@ F4 <- function(faasr) {
   faasr_log(faasr, "User function F4 finished")
 }	
 
+
 F6 <- function(faasr) {
 # todo
 }
+
 
 F5 <- function(faasr){
   print("Test")
   cat("test")
-}
-
-F6 <- function(faasr) {
-# todo
 }
