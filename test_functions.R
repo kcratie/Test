@@ -84,3 +84,7 @@ F5 <- function(faasr){
   print("Test")
   cat("test")
 }
+
+F6 <- function(faasr) {
+# todo
+}
